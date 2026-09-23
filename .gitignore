@@ -3,6 +3,8 @@ logs/
 profile/
 autosaves/
 .autosave/
+resourceDatabase.rdb
+resourceDatabase.rdb-*
 
 # IDE / editor
 .vscode/
