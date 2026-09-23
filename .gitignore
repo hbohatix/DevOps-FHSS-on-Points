@@ -1,0 +1,24 @@
+# Enfusion / Workbench local state
+logs/
+profile/
+autosaves/
+.autosave/
+
+# IDE / editor
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Keep Enfusion .meta files if/when Workbench creates them.
+# They are intentionally NOT ignored.
